@@ -12,7 +12,7 @@ This repository contains a Python script that solves quadratic equations.
 4. Navigate to the repository directory on your local machine:
 ```cd QuadPy```
 5. Open the folder in a text-editor of your choice.
-6. Enter ```python main.py``` in the terminal
+6. Enter ```python main.py``` in the terminal to run the script
 
 
 
